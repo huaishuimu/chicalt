@@ -1,0 +1,6 @@
+{
+  "name": "ChicAlt - AI Fashion & Smart Styling",
+  "description": "Smart AI, Chic Styles at Your Fingertips. AI-curated shopping, 3D virtual try-on, body ID sizing, and community fashion discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
